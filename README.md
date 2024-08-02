@@ -14,6 +14,6 @@ LOGGER
   WARN: Indicates a potential problem or important situation that may need attention. it value = 300
   ERROR: Indicates a serious issue that has caused an operation to fail. it value = 200
   FATAL: Very severe error events that might cause the application to terminate. it value = 100
-
+***********************************************************************************************
 1.What is Logging?
 Logging is the process of recording messages or data about the execution of a program to help developers and administrators monitor the application's behavior and diagnose issues. 
